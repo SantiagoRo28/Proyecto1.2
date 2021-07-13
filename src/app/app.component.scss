@@ -1,0 +1,93 @@
+label{
+        color: red;
+        text-shadow: 1px 1px 1px black;
+        text-decoration: underline gold;
+        -webkit-text-stroke: 0.7px black;
+    }
+.contenedor{
+    text-align: center;
+    border: 5px solid black;
+    font-size: 3.5ch;
+    border-radius: 7px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    padding: 10px;
+}
+.boton_azul{
+    background-color: blue;
+    font-size: 2ch;
+    text-decoration: underline gold;
+    -webkit-text-stroke: 0.7px black;
+}
+.fondo{
+    background-color: purple;
+    height: 100vh;
+}
+.colorpelicula{
+    color: gold;
+    text-shadow: 1px 1px 1px black;
+    font-size: 3ch;
+    -webkit-text-stroke: 0.7px black;
+}
+.borrar{
+    background-color: red;
+    font-size: 1.5ch;
+}
+.nombrepelicula{
+    background-color: black;
+    font-size: 1.5ch;
+}
+.tipopelicula{
+    background-color: black;
+    font-size: 1.5ch;
+}
+.Duracionpelicula{
+    background-color: black;
+    font-size: 1.5ch;
+}
+.textopelicula{
+    color: blue;
+    text-shadow: 1px 1px 1px black;
+    font-size: 3.5ch;
+    text-decoration: underline gold;
+    -webkit-text-stroke: 0.7px black;
+}
+.textopeliculaagregada{
+    color: blue;
+    text-shadow: 1px 1px 1px black;
+    font-size: 4ch;
+    text-decoration: underline gold;
+    -webkit-text-stroke: 0.7px black;
+}
+.textopeliculacartel{
+    color: red;
+}
+.boton_listas{
+    background-color: orange;
+}
+.boton_carga{
+    background-color: orange;
+}
+.agregar{
+    color: gold;
+    text-shadow: 1px 1px 1px black;
+}
+.app-listas{
+    color: purple;
+}
+.app-carga{
+    color: purple;
+}
+.borrar-texto{
+    color: gold;
+    text-shadow: 1px 1px 1px black;
+}
+.texto-nombre{
+    color: gold;
+}
+.texto-tipo{
+    color: gold;
+}
+.texto-duracion{
+    color: gold;
+}

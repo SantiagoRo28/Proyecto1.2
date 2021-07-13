@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": "9b90d562-1bfc-4afc-93de-50eae7d74b27"
+  },
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
@@ -123,6 +126,10 @@
               "devServerTarget": "my-app:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }

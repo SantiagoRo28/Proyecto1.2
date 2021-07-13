@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "proyecto1-669e7": {
+      "hosting": {
+        "my-app": [
+          "proyecto1-669e7"
+        ]
+      }
+    }
+  }
+}
